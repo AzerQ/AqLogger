@@ -1,0 +1,11 @@
+Wrtite me on c# language wrapper function for call stored procedure with this signature:
+  CREATE PROCEDURE dbo.SearchLogItems
+    @ContentType VARCHAR(50) = '',
+    @Type VARCHAR(50) = '',
+    @Content NVARCHAR(MAX) = '',
+    @StartDate DATETIME = "01/01/01",
+    @EndDate DATETIME = "01/01/2099",
+    @ChannelName VARCHAR(100) = '',
+    @Tag VARCHAR(80) = '',
+    @Author VARCHAR (100) = '',
+    @Header NVARCHAR (150) = ''

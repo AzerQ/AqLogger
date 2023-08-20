@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj": {}
+  },
+  "projects": {
+    "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj",
+        "projectName": "AzerQLoggerLib",
+        "projectPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj",
+        "packagesPath": "C:\\Users\\a.vorobev901\\.nuget\\packages\\",
+        "outputPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.vorobev901\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj",
+        "projectName": "TestLogging",
+        "projectPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj",
+        "packagesPath": "C:\\Users\\a.vorobev901\\.nuget\\packages\\",
+        "outputPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.vorobev901\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj": {
+                "projectPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

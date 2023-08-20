@@ -1,0 +1,16 @@
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\AzerQLoggerLib.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\AzerQLoggerLib.pdb
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\Dapper.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\Dapper.SqlBuilder.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\Newtonsoft.Json.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\TableDependency.SqlClient.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\System.ComponentModel.Annotations.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net471\System.Data.SqlClient.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.csproj.AssemblyReference.cache
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.AssemblyInfoInputs.cache
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.AssemblyInfo.cs
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.csproj.CoreCompileInputs.cache
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.csproj.CopyComplete
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.dll
+C:\Users\AzerQ\Documents\GitHub\AzerqLogger\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net471\AzerQLoggerLib.pdb

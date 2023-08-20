@@ -1,0 +1,4 @@
+Z:\AQLoggerDBLIB\AzerqLogger\TestLogging\obj\Debug\net462\TestLogging.csprojAssemblyReference.cache
+Z:\AQLoggerDBLIB\AzerqLogger\TestLogging\obj\Debug\net462\TestLogging.AssemblyInfoInputs.cache
+Z:\AQLoggerDBLIB\AzerqLogger\TestLogging\obj\Debug\net462\TestLogging.AssemblyInfo.cs
+Z:\AQLoggerDBLIB\AzerqLogger\TestLogging\obj\Debug\net462\TestLogging.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\bin\Debug\netstandard2.1\AzerQLoggerLib.deps.json
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\bin\Debug\netstandard2.1\AzerQLoggerLib.dll
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\bin\Debug\netstandard2.1\AzerQLoggerLib.pdb
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.csproj.AssemblyReference.cache
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.AssemblyInfoInputs.cache
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.AssemblyInfo.cs
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.csproj.CoreCompileInputs.cache
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.dll
+C:\Users\AzerQ\source\repos\AzerqLogger\AzerQLoggerLib\obj\Debug\netstandard2.1\AzerQLoggerLib.pdb

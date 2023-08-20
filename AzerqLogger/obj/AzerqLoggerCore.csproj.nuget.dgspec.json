@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AzerqLogger\\AzerqLoggerCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj",
+        "projectName": "AzerQLoggerLib",
+        "projectPath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj",
+        "packagesPath": "C:\\Users\\AzerQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VisualStudioShared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AzerQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Dapper.SqlBuilder": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "SqlTableDependency": {
+              "target": "Package",
+              "version": "[8.5.8, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AzerqLogger\\AzerqLoggerCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AzerqLogger\\AzerqLoggerCore.csproj",
+        "projectName": "AzerqLoggerCore",
+        "projectPath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AzerqLogger\\AzerqLoggerCore.csproj",
+        "packagesPath": "C:\\Users\\AzerQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AzerqLogger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VisualStudioShared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AzerQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj": {
+                "projectPath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

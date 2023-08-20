@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8USYD6QG0T480zX80Q+aW+e99iieXYHH9fxBpoy9FEqrE/dAGByr5hn0ZquqO3hcJuu+ogKfHFoooULJ6RkTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AzerQ\\Documents\\GitHub\\AzerqLogger\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AzerQ\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\dapper.sqlbuilder\\2.0.78\\dapper.sqlbuilder.2.0.78.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\sqltabledependency\\8.5.8\\sqltabledependency.8.5.8.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\system.componentmodel.annotations\\4.4.0\\system.componentmodel.annotations.4.4.0.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\system.data.common\\4.3.0\\system.data.common.4.3.0.nupkg.sha512",
+    "C:\\Users\\AzerQ\\.nuget\\packages\\system.data.sqlclient\\4.3.0\\system.data.sqlclient.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

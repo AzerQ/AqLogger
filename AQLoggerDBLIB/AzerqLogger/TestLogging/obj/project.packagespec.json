@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj",
+    "projectName": "TestLogging",
+    "projectPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\TestLogging.csproj",
+    "outputPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\TestLogging\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net462"
+    ],
+    "sources": {
+      "C:\\Users\\a.vorobev901\\AppData\\Roaming\\NuGet\\packages": {}
+    },
+    "frameworks": {
+      "net462": {
+        "projectReferences": {
+          "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj": {
+            "projectPath": "Z:\\AQLoggerDBLIB\\AzerqLogger\\AzerQLoggerLib\\AzerQLoggerLib.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net462": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

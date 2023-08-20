@@ -1,0 +1,12 @@
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net462\AzerQLoggerLib.dll
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net462\AzerQLoggerLib.pdb
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net462\Dapper.dll
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.csprojAssemblyReference.cache
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.AssemblyInfoInputs.cache
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.AssemblyInfo.cs
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.csproj.CoreCompileInputs.cache
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.csproj.CopyComplete
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.dll
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\obj\Debug\net462\AzerQLoggerLib.pdb
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net462\Dapper.xml
+Z:\AQLoggerDBLIB\AzerqLogger\AzerQLoggerLib\bin\Debug\net462\Newtonsoft.Json.dll
