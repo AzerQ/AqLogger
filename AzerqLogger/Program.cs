@@ -1,6 +1,6 @@
 ﻿using AzerQLoggerLib;
 
-namespace AzerqLogger
+namespace AzerqLoggerCore
 {
     internal class Program
     {
